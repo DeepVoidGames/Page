@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "title": "Creating Unforgettable Adventures",
+    "subtitle": "Passion for games drives our studio. We create unique worlds where players experience amazing stories.",
+    "cta": "See our games",
+    "about": "About us",
+    "players": "We create with gamers in mind"
+  },
+  "games": {
+    "title": "Our games",
+    "subtitle": "Each of our games is a unique experience, created with passion and attention to detail.",
+    "SpaceIdle": {
+      "title": "Space Idle",
+      "description": "SpaceIdle is a single-player management game set in the year 2248. Players take on the role of a manager of a space mining corporation, exploring asteroids and managing resources. The main objective is to grow the corporation through mining, trading, and investing in advanced technologies. The game features dynamic market prices, automatic asteroid mining, and various upgrades to enhance efficiency. Players can also process resources in factories and invest in research to unlock new gameplay elements.",
+      "releaseDate": "To be announced",
+      "platform": "Web / Android"
+    },
+    "IdleWorld": {
+      "title": "IdleWorld",
+      "description": "Battle monsters: Face a variety of monsters, earning money and rewards for each defeat. Develop your skills: Focus on becoming a master in various skills such as combat, crafting, and magic. Hire heroes at the tavern: Discover the ability to hire heroes who will assist you in challenging battles. Craft items: Gather resources and create powerful items that will enhance your chances of success. Are you ready to become a legend in this fantastic world? Join the game now and start your adventure!",
+      "releaseDate": "2024",
+      "platform": "PC / Android"
+    }
+  },
+  "about": {
+    "title": "About Our Studio",
+    "subtitle": "We are a team of passionate developers who love to create unique experiences for players around the world.",
+    "experience": {
+      "title": "Experience",
+      "description": "1 years of creating exceptional games"
+    },
+    "quality": {
+      "title": "Quality",
+      "description": "Award-winning productions and satisfied players"
+    },
+    "innovation": {
+      "title": "Innovation",
+      "description": "Continuous search for new solutions"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have questions? Want to join our team? Write to us!"
+  }
+}

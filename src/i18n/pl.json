@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "title": "Tworzenie Niezapomnianych Przygód",
+    "subtitle": "Pasja do gier napędza nasze studio. Tworzymy unikalne światy, w których gracze doświadczają niesamowitych historii.",
+    "cta": "Zobacz nasze gry",
+    "about": "O nas",
+    "players": "Tworzymy z myślą o graczach"
+  },
+  "games": {
+    "title": "Nasze gry",
+    "subtitle": "Każda z naszych gier to unikalne doświadczenie, stworzone z pasją i dbałością o szczegóły.",
+    "SpaceIdle": {
+      "title": "Space Idle",
+      "description": "SpaceIdle to singleplayerowa gra o zarządzaniu korporacją wydobywczą, której akcja rozpoczyna się w roku 2248. Gracz wciela się w menedżera zespołu górników kosmicznych, eksplorującego asteroidy i zarządzającego zasobami. Głównym celem gry jest rozwijanie korporacji poprzez wydobycie, handel i inwestycje w lepsze technologie. Gra oferuje dynamiczne ceny rynkowe, automatyczne wydobycie asteroid oraz różne ulepszenia zwiększające wydajność. Gracze mogą również przetwarzać surowce w fabrykach i inwestować w badania, aby odblokować nowe elementy rozgrywki.",
+      "releaseDate": "Do ogłoszenia",
+      "platform": "Web / Android"
+    },
+    "IdleWorld": {
+      "title": "IdleWorld",
+      "description": "Walcz z potworami: Zmierz się z różnorodnymi potworami, zdobywając pieniądze i nagrody za każde zwycięstwo. Rozwijaj swoje umiejętności: Skup się na doskonaleniu różnych umiejętności, takich jak walka, rzemiosło i magia. Zatrudniaj bohaterów w tawernie: Odkryj możliwość zatrudniania bohaterów, którzy pomogą ci w trudnych bitwach. Twórz przedmioty: Zbieraj surowce i twórz potężne przedmioty, które zwiększą twoje szanse na sukces. Czy jesteś gotów, aby stać się legendą w tym fantastycznym świecie? Dołącz do gry już teraz i rozpocznij swoją przygodę!",
+      "releaseDate": "2024",
+      "platform": "PC / Android"
+    }
+  },
+  "about": {
+    "title": "O Naszym Studiu",
+    "subtitle": "Jesteśmy zespołem pasjonatów, którzy uwielbiają tworzyć unikalne doświadczenia dla graczy na całym świecie.",
+    "experience": {
+      "title": "Doświadczenie",
+      "description": "1 rok tworzenia wyjątkowych gier"
+    },
+    "quality": {
+      "title": "Jakość",
+      "description": "Nagrodzone produkcje i zadowoleni gracze"
+    },
+    "innovation": {
+      "title": "Innowacja",
+      "description": "Ciągłe poszukiwanie nowych rozwiązań"
+    }
+  },
+  "contact": {
+    "title": "Skontaktuj się z nami",
+    "subtitle": "Masz pytania? Chcesz dołączyć do naszego zespołu? Napisz do nas!"
+  }
+}
